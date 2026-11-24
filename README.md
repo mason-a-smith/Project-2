@@ -12,7 +12,7 @@ Personal confirmation pending: Mason must review and confirm the opening ownersh
 
 **VS Code demonstration:** open app.py in this repository and click **Run Python File** (the triangle), or run `python app.py`. The file starts Streamlit in the locked environment and opens a browser when ready. Keep the terminal open; stop with Ctrl+C. Busy ports are skipped automatically. This requires uv, or a selected Python environment with the project dependencies installed.
 
-Repository: https://github.com/mason-a-smith/Project-2-Final
+Repository: https://github.com/mason-a-smith/Project-2
 
 Use **Code → Download ZIP**, extract the complete repository, and open a terminal in the folder containing app.py, pyproject.toml and uv.lock. The smaller Mason hand-in ZIP is evidence only, not a runnable copy. Git cloning is an alternative.
 

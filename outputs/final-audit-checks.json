@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-11-24T03:44:19.242741+00:00",
+  "checks": [
+    "Two written openings and three video openings",
+    "Concise memo and consistent saved values",
+    "12-row GitHub manifest with missing video/transcript status",
+    "Complete locked-record disclosure with execution qualification",
+    "Personal confirmation not fabricated",
+    "Exact user-provided rubric anchors and total verified"
+  ],
+  "rubric_grade": 243.75,
+  "maximum": 300,
+  "scope": "Assistant-run artifact checks and conservative self-assessment; not instructor grade or personal confirmation"
+}
